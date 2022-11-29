@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samwel Byegon, @Sam25498
+- 👋 Hi, I’m Samwel Byegon, @Sam25498 i am 24 years old.
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning SQL and Django, also looking forward to learn about Power BI 
 - 💞️ I’m looking to collaborate on Django related projects
